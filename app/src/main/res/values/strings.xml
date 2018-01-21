@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">PMMD</string>
+    <string name="button_name">Click</string>
 </resources>
